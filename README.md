@@ -29,14 +29,7 @@ I'm a BS in Computer Science student at Laguna State Polytechnic University, spe
 
 ---
 
-### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toneejake&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Ja-ke's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toneejake&layout=compact&langs_count=8&theme=dracula" alt="Ja-ke's Top Languages" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 
